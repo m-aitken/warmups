@@ -1,5 +1,5 @@
-#> Monday quiz: **Brain_Gym**
-##> _A series of question & answers scenarios_
+> Monday quiz: **Brain_Gym**
+> _A series of question & answers scenarios_
 
 ## Question One
 "To Guard One: would the other guard tell me the true way to paradise? "
