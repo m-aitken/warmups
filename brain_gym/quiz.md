@@ -1,6 +1,4 @@
-# Morning quiz answers
-
-> Monday quiz: Brain_Gym
+> Monday quiz: **Brain_Gym**
 > _A series of question & answers scenarios_
 
 ## Question One
@@ -10,8 +8,10 @@
 _Himself_
 
 ## Question Three
-*Tuesday
-*Thursday
+* Tuesday
+* Thursday
+* Today
+* Tomorrow
 
 _what other days start with 't'?_
 
@@ -22,6 +22,8 @@ _what other days start with 't'?_
 1. Return and get the :chicken:!
 
 ## Question Five
+### 3,000 Figs
+### 1,000 nautical miles
 
 
 ## Question Six
