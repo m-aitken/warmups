@@ -13,8 +13,6 @@ _Himself_
 * Today
 * Tomorrow
 
-_what other days start with 't'?_
-
 ## Question Four
 1. Take the :chicken: over, leave there.
 1. Take the :corn: over and leave there, return with the :chicken:.
