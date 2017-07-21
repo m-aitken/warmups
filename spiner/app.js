@@ -1,0 +1,3 @@
+var spiner = function (string) {
+  
+}
